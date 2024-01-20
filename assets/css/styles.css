@@ -35,7 +35,6 @@
     --br-10: 0.625rem;
 }
 html {
-    font-size: 16px;
     font-family: var(--ff-lexend-deca);
     font-weight: var(--fw-400);
 }    
