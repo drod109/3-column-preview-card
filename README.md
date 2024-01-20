@@ -22,15 +22,15 @@ The challenge is to build out this card component and get it looking as close to
 
 ### The design
 
-![Desktop Screenshot](https://i.postimg.cc/DZXq8zYd/desktop-design.jpg)
+![Desktop Screenshot](https://i.postimg.cc/jSjZ8JXd/desktop-design.jpg)
 
  <p align="center">
-  <img width="375" height="667" src="https://i.postimg.cc/wBPXqNFj/mobile-design.jpg">
+  <img width="199" height="797" src="https://i.postimg.cc/wBPXqNFj/mobile-design.jpg">
 </p>
 
 ### The result
 
-![Project Desktop Screenshot](https://i.postimg.cc/pLmN4YnG/Screenshot-2024-01-20-053114.png)
+![Project Desktop Screenshot](https://i.postimg.cc/cL5TP497/mobile-design.jpg)
 
 ### Links
 
